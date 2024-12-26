@@ -1,5 +1,5 @@
 # MKBill 🧾
-⚠ Ce plugin ne peut-être réutiliser à des fins commercials ⚠
+⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
 # Fonctionnalité 🧰
 - Ce plugin contient une config en .json situer dans `/Plugins/MKPlugins/mkbill.json`.
 - Vous pouvez modifier le préfix des menus/notifs dans la config (par défaut `"MKBill"`).
