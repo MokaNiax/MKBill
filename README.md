@@ -1,4 +1,5 @@
 # MKBill 🧾
+![banner](https://github.com/user-attachments/assets/a0fc5a76-7209-4f45-b70e-44a3c12838f6)
 ### MKBill permet au personnel d'une entreprise de générer une facture pour le joueur le plus proche.
 ⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
 # Fonctionnalité 🧰
