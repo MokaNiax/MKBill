@@ -1,5 +1,6 @@
 # MKBill 🧾
 ⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
+- MKBill permet au personnel d'une entreprise de générer une facture pour le joueur le plus proche.
 # Fonctionnalité 🧰
 - Ce plugin contient une config en .json situer dans `/Plugins/MKPlugins/mkbill.json`.
 - Vous pouvez modifier le préfix des menus/notifs dans la config (par défaut `"MKBill"`).
