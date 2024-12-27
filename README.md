@@ -8,6 +8,8 @@
 - En jeu l'utilisation est simple, il vous suffis simplement de faire `/bill` dans le chat.
 - L'envoi de la facture fonctionne seulement si le joueur est dans une entreprise.
 - L'argent est automatiquement mis dans l'entreprise.
+- Choix du mode de paiement.
+- PEndetter de joueur possible (modifiable dans la config, par défaut : `debt = false`)
 # Installation 📥
 - Télécharger la dernière version de `mkbill.dll`.
 - Mettre `mkbill.dll` dans le dossier plugins de votre serveur.
