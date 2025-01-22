@@ -10,6 +10,7 @@
 - L'argent est automatiquement mis dans l'entreprise.
 - Choix du mode de paiement.
 - L'endetter du joueur est possible (modifiable dans la config, par défaut : `debt = false`)
+- WebHook Discord pour recevoir les logs du plugin.
 # Installation 📥
 - Télécharger la dernière version de `mkbill.dll`.
 - Mettre `mkbill.dll` dans le dossier plugins de votre serveur.
